@@ -52,3 +52,7 @@ button:hover {
 #clear-button:hover {
   background-color: #BB2D3B;
 }
+
+#info {
+  font-size: 12px;
+}
